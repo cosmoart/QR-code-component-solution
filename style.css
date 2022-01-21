@@ -1,0 +1,64 @@
+/*---VAR---*/
+
+:root {
+
+    --White: hsl(0, 0%, 100%);
+    --Lightgray: hsl(212, 45%, 89%);
+    --Grayishblue: hsl(220, 15%, 55%);
+    --Darkblue: hsl(218, 44%, 22%);
+}
+
+/* ---- */
+
+body {
+  background-color: var(--Lightgray);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+}
+
+.attribution {
+  font-size: 0.7rem;
+  text-align: center;
+  position: absolute;
+  color: var(--Darkblue);
+  right: 0;
+  bottom: 0;
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+/* --- */
+main{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 15rem;
+    height: 25rem;
+    background-color: var(--White);
+    border-radius: 1rem;
+    padding: 1rem;
+    font-family: "Outfit", sans-serif;
+    text-align: center;
+    /* Edited scale for DESIGN COMPARISON */
+    /* transform: scale(1.3); */
+}
+main h1{
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--Darkblue)
+}
+main p{
+    font-size: .85rem;
+    font-weight: 400;
+    color: var(--Grayishblue)
+}
