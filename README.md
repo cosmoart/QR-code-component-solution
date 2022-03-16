@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- #### [Solution URL](https://github.com/CosmoArt/QR-code-component-solution)
-- #### [Live Site URL](https://www.frontendmentor.io/solutions/qr-code-component-solution-HJ1wJzFXD)
+- #### [Solution](https://github.com/CosmoArt/QR-code-component-solution)
+- #### [Live Site](https://www.frontendmentor.io/solutions/qr-code-component-solution-HJ1wJzFXD)
 
 ## My process
 
