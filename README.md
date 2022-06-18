@@ -42,7 +42,7 @@ Users should be able to:
 ### Screenshot
 
 <div align="center">
-<img src="images/Screenshot.png" alt="Solution" width="60%"/>
+<img src="images/Screenshot.png" alt="Solution"/>
 </div>
 
 ### Links
